@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Eastwood Academy"
+author: "Melane Pina & Samantha Trevino"
+description: "Welcome to Eastwood"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,13 +16,14 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "index.html", title: Teachers Change}
+  - {file: "README.md", title: Clubs Change}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:s1710726@online.houstonisd.org"}
+  - {title: Mail, icon: envelope, url: "mailto:s1716158@online.houstonisd.org"}
+  - {title: Mail, icon: envelope, url: "mailto:natasha.cruzjefferson@houstonisd.org"}
+  - {title: Github, icon: github, url: "https://github.com/melane1206"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
